@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 ////TODO: provide total metric for amount of unmanaged memory (device state + action state)
 

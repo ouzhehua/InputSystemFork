@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using UnityEngine.InputSystem.LowLevel;
 
 ////REVIEW: should we keep an explicit playback status? ATM calling ResumeHaptics() will re-issue last set motor speed regardless of pause state

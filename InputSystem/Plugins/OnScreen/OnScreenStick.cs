@@ -1,4 +1,4 @@
-#if PACKAGE_DOCS_GENERATION || UNITY_INPUT_SYSTEM_ENABLE_UI
+﻿#if PACKAGE_DOCS_GENERATION || UNITY_INPUT_SYSTEM_ENABLE_UI
 using System;
 using System.Collections.Generic;
 using UnityEngine.EventSystems;

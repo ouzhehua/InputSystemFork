@@ -1,4 +1,4 @@
-namespace UnityEngine.InputSystem
+﻿namespace UnityEngine.InputSystem
 {
     /// <summary>
     /// Indicates what type of change related to an <see cref="InputAction">input action</see> occurred.

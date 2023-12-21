@@ -1,4 +1,4 @@
-////REVIEW: move everything from InputControlExtensions here?
+﻿////REVIEW: move everything from InputControlExtensions here?
 
 namespace UnityEngine.InputSystem
 {

@@ -1,4 +1,4 @@
-// This example demonstrates how to display text in the UI that involves action bindings.
+﻿// This example demonstrates how to display text in the UI that involves action bindings.
 // When the player switches control schemes or customizes controls (the latter is not set up
 // in this example but if supported, would work with the existing code as is), text that
 // is shown to the user may be affected.

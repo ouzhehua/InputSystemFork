@@ -1,4 +1,4 @@
-#if UNITY_WEBGL || UNITY_EDITOR
+﻿#if UNITY_WEBGL || UNITY_EDITOR
 using UnityEngine.InputSystem.Layouts;
 using UnityEngine.InputSystem.WebGL.LowLevel;
 using UnityEngine.InputSystem.LowLevel;

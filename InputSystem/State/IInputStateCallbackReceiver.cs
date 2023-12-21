@@ -1,4 +1,4 @@
-// In retrospect, allowing Touchscreen to do what it does the way it does it was a mistake. It came out of thinking that
+﻿// In retrospect, allowing Touchscreen to do what it does the way it does it was a mistake. It came out of thinking that
 // we need Touchscreen to have a large pool of TouchStates from which to dynamically allocate -- as this was what the old
 // input system does. This made it unfeasible/unwise to put the burden of touch allocation on platform backends and thus
 // led to the current setup where backends are sending TouchState events which Touchscreen dynamically incorporates.

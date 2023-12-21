@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using UnityEngine.InputSystem.Utilities;
 
 ////REVIEW: nuke this and force raw pointers on all code using events?

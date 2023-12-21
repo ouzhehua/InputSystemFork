@@ -1,4 +1,4 @@
-namespace UnityEngine.InputSystem.Steam
+﻿namespace UnityEngine.InputSystem.Steam
 {
 /*
     TODO

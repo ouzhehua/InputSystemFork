@@ -1,4 +1,4 @@
-#if UNITY_EDITOR
+﻿#if UNITY_EDITOR
 using System;
 using System.IO;
 using System.Linq;
@@ -67,7 +67,7 @@ namespace UnityEngine.InputSystem.Editor
                         InputSystem.settings = AssetDatabase.LoadAssetAtPath<InputSettings>((string)path);
                     }, m_AvailableInputSettingsAssets[i]);
                 menu.AddSeparator("");
-                menu.AddItem(new GUIContent("New Settings Asset…"), false, CreateNewSettingsAsset);
+                menu.AddItem(new GUIContent("New Settings Asset???"), false, CreateNewSettingsAsset);
                 menu.ShowAsContext();
                 Event.current.Use();
             }

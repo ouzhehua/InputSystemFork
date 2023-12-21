@@ -1,4 +1,4 @@
-using Unity.Collections.LowLevel.Unsafe;
+﻿using Unity.Collections.LowLevel.Unsafe;
 using UnityEngine.Experimental.Rendering;
 
 namespace UnityEngine.InputSystem.Utilities

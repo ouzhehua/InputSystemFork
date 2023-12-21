@@ -1,4 +1,4 @@
-#if UNITY_EDITOR
+﻿#if UNITY_EDITOR
 namespace UnityEngine.InputSystem.Editor
 {
     internal class InputActionsEditorConstants

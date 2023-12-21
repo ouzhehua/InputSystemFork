@@ -1,4 +1,4 @@
-using System.Runtime.InteropServices;
+﻿using System.Runtime.InteropServices;
 using UnityEngine.InputSystem.Utilities;
 
 ////REVIEW: should this have optional data that identifies *what* has changed?

@@ -1,4 +1,4 @@
-#if UNITY_WEBGL || UNITY_EDITOR || PACKAGE_DOCS_GENERATION
+﻿#if UNITY_WEBGL || UNITY_EDITOR || PACKAGE_DOCS_GENERATION
 using System;
 using System.ComponentModel;
 using UnityEngine.InputSystem.Layouts;

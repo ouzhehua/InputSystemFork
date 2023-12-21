@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using UnityEngine.InputSystem.LowLevel;
 
 namespace UnityEngine.InputSystem.Utilities

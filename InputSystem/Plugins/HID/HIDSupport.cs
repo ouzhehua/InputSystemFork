@@ -1,4 +1,4 @@
-using System.Linq;
+﻿using System.Linq;
 using UnityEngine.InputSystem.Utilities;
 #if UNITY_EDITOR
 using UnityEditor;

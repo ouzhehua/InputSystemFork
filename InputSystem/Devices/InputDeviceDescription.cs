@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using UnityEngine.InputSystem.Utilities;
 
 ////TODO: add a 'devicePath' property that platforms can use to relay their internal device locators

@@ -1,4 +1,4 @@
-using System.Linq;
+﻿using System.Linq;
 #if UNITY_EDITOR
 using UnityEngine;
 using UnityEditor;
@@ -78,7 +78,7 @@ internal class DownloadableSampleInspector : Editor
             {
                 using (new EditorGUI.DisabledScope(true))
                 {
-                    GUI.Label(rect, "checking…", EditorStyles.label);
+                    GUI.Label(rect, "checking???", EditorStyles.label);
                 }
             }
             else if (HasPackage(req))

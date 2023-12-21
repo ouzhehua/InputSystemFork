@@ -1,4 +1,4 @@
-#if UNITY_EDITOR || UNITY_ANDROID
+﻿#if UNITY_EDITOR || UNITY_ANDROID
 using System.Linq;
 using UnityEngine.InputSystem.Layouts;
 using UnityEngine.InputSystem.LowLevel;

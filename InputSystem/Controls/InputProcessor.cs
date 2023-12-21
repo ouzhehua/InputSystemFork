@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using Unity.Collections.LowLevel.Unsafe;
 using UnityEngine.InputSystem.Layouts;
 using UnityEngine.InputSystem.Utilities;

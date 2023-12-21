@@ -1,4 +1,4 @@
-using UnityEngine.Scripting;
+﻿using UnityEngine.Scripting;
 
 ////REVIEW: handle values dropping below min and above max?
 

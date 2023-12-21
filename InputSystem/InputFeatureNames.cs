@@ -1,4 +1,4 @@
-namespace UnityEngine.InputSystem
+﻿namespace UnityEngine.InputSystem
 {
     internal static class InputFeatureNames
     {

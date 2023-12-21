@@ -1,4 +1,4 @@
-namespace UnityEngine.InputSystem
+﻿namespace UnityEngine.InputSystem
 {
     /// <summary>
     /// Enum used to identity the change type for the <see cref="InputSystem.onLayoutChange"/> event.

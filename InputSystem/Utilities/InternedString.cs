@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Globalization;
 
 ////TODO: goal should be to end up with this being internal

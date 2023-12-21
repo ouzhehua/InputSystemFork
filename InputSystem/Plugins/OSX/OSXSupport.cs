@@ -1,4 +1,4 @@
-#if UNITY_EDITOR || UNITY_STANDALONE_OSX
+﻿#if UNITY_EDITOR || UNITY_STANDALONE_OSX
 using UnityEngine.InputSystem.Layouts;
 using UnityEngine.InputSystem.OSX.LowLevel;
 

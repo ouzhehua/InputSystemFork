@@ -1,4 +1,4 @@
-using System.Reflection;
+﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 
 // Keep this in sync with "Packages/com.unity.inputsystem/package.json".

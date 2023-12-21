@@ -1,4 +1,4 @@
-using UnityEngine.InputSystem.LowLevel;
+﻿using UnityEngine.InputSystem.LowLevel;
 using UnityEngine.InputSystem.Utilities;
 
 ////TODO: this or the layout system needs to detect when the format isn't supported by the control

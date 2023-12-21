@@ -1,4 +1,4 @@
-namespace UnityEngine.InputSystem.LowLevel
+﻿namespace UnityEngine.InputSystem.LowLevel
 {
     /// <summary>
     /// Interface for <see cref="InputDevice"/> classes that can receive text input events.

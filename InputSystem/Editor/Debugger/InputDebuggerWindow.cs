@@ -1,4 +1,4 @@
-#if UNITY_EDITOR
+﻿#if UNITY_EDITOR
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -254,7 +254,7 @@ namespace UnityEngine.InputSystem.Editor
 
         private static void DrawConnectionGUI()
         {
-            if (GUILayout.Button("Remote Devices…", EditorStyles.toolbarDropDown))
+            if (GUILayout.Button("Remote Devices???", EditorStyles.toolbarDropDown))
             {
                 var menu = new GenericMenu();
                 var haveRemotes = InputSystem.devices.Any(x => x.remote);

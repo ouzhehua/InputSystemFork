@@ -1,4 +1,4 @@
-#if UNITY_EDITOR && UNITY_ENABLE_STEAM_CONTROLLER_SUPPORT
+﻿#if UNITY_EDITOR && UNITY_ENABLE_STEAM_CONTROLLER_SUPPORT
 using System;
 using System.Collections.Generic;
 using System.IO;

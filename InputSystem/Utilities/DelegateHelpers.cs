@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using UnityEngine.Profiling;
 
 namespace UnityEngine.InputSystem.Utilities

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using Unity.Collections.LowLevel.Unsafe;
 using UnityEngine.InputSystem.Controls;
 using UnityEngine.InputSystem.LowLevel;
@@ -1542,7 +1542,7 @@ namespace UnityEngine.InputSystem
 
         // NOTE: This does *NOT* check whether the control is valid according to the binding it
         //       resolved from and/or the current binding mask. If, for example, the binding is
-        //       "<Keyboard>/#(ä)" and the keyboard switches from a DE layout to a US layout, the
+        //       "<Keyboard>/#(??)" and the keyboard switches from a DE layout to a US layout, the
         //       key would still be considered valid even if the path in the binding would actually
         //       no longer resolve to it.
         internal bool ActiveControlIsValid(InputControl control)

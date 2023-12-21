@@ -1,4 +1,4 @@
-////TODO: add support for Windows.Gaming.Input.Gamepad (including the trigger motors)
+﻿////TODO: add support for Windows.Gaming.Input.Gamepad (including the trigger motors)
 
 using UnityEngine.InputSystem.Layouts;
 

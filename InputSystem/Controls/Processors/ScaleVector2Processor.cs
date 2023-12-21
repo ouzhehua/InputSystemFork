@@ -1,4 +1,4 @@
-namespace UnityEngine.InputSystem.Processors
+﻿namespace UnityEngine.InputSystem.Processors
 {
     /// <summary>
     /// Scale the components of a <see cref="Vector2"/> by constant factors.

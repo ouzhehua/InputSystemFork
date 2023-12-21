@@ -1,4 +1,4 @@
-#if UNITY_EDITOR
+﻿#if UNITY_EDITOR
 using System;
 using System.IO;
 using UnityEngine.InputSystem.Utilities;
@@ -60,7 +60,7 @@ namespace UnityEngine.InputSystem.Editor
 
                 wrapperCodePathProperty.PropertyFieldWithDefaultText(m_WrapperCodePathLabel, defaultFileName);
 
-                if (GUILayout.Button("…", EditorStyles.miniButton, GUILayout.MaxWidth(20)))
+                if (GUILayout.Button("???", EditorStyles.miniButton, GUILayout.MaxWidth(20)))
                 {
                     var fileName = EditorUtility.SaveFilePanel("Location for generated C# file",
                         Path.GetDirectoryName(defaultFileName),

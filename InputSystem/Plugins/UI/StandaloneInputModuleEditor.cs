@@ -1,4 +1,4 @@
-#if UNITY_EDITOR && UNITY_INPUT_SYSTEM_ENABLE_UI
+﻿#if UNITY_EDITOR && UNITY_INPUT_SYSTEM_ENABLE_UI
 
 using UnityEditor;
 using UnityEngine.EventSystems;

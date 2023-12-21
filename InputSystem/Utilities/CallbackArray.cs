@@ -1,4 +1,4 @@
-namespace UnityEngine.InputSystem.Utilities
+﻿namespace UnityEngine.InputSystem.Utilities
 {
     // Keeps a copy of the callback list while executing so that the callback list can safely
     // be mutated from within callbacks.

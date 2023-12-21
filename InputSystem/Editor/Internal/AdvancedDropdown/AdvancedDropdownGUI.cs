@@ -1,4 +1,4 @@
-#if UNITY_EDITOR
+﻿#if UNITY_EDITOR
 using System;
 using System.Linq;
 using UnityEditor;
@@ -41,8 +41,8 @@ namespace UnityEngine.InputSystem.Editor
                 .WithPadding(new RectOffset())
                 .WithMargin(new RectOffset())
                 .WithFixedHeight(17);
-            public static readonly GUIContent arrowRightContent = new GUIContent("▸");
-            public static readonly GUIContent arrowLeftContent = new GUIContent("◂");
+            public static readonly GUIContent arrowRightContent = new GUIContent("???");
+            public static readonly GUIContent arrowLeftContent = new GUIContent("???");
         }
 
         //This should ideally match line height

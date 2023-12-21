@@ -1,4 +1,4 @@
-using UnityEngine.InputSystem.Haptics;
+﻿using UnityEngine.InputSystem.Haptics;
 
 namespace UnityEngine.InputSystem.XInput
 {

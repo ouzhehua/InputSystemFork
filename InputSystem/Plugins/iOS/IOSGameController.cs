@@ -1,4 +1,4 @@
-#if UNITY_EDITOR || UNITY_IOS || UNITY_TVOS || UNITY_VISIONOS || PACKAGE_DOCS_GENERATION
+﻿#if UNITY_EDITOR || UNITY_IOS || UNITY_TVOS || UNITY_VISIONOS || PACKAGE_DOCS_GENERATION
 using System.Runtime.InteropServices;
 using UnityEngine.InputSystem.DualShock;
 using UnityEngine.InputSystem.Layouts;

@@ -1,4 +1,4 @@
-using System.Runtime.InteropServices;
+﻿using System.Runtime.InteropServices;
 using UnityEngine.InputSystem.Utilities;
 
 ////REVIEW: switch this to interval-in-seconds instead of Hz?

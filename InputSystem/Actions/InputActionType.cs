@@ -1,4 +1,4 @@
-namespace UnityEngine.InputSystem
+﻿namespace UnityEngine.InputSystem
 {
     /// <summary>
     /// Determines the behavior with which an <see cref="InputAction"/> triggers.

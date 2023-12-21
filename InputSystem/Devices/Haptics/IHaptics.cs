@@ -1,4 +1,4 @@
-////REVIEW: Devices usually will automatically shut down haptics if they haven't received a haptics command in some time.
+﻿////REVIEW: Devices usually will automatically shut down haptics if they haven't received a haptics command in some time.
 ////        How should we deal with that? Should haptics automatically refresh themselves periodically while they are set?
 
 ////REVIEW: Do we need a mute in addition to a pause?

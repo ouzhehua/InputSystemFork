@@ -1,4 +1,4 @@
-using UnityEngine.InputSystem.Interactions;
+﻿using UnityEngine.InputSystem.Interactions;
 
 ////REVIEW: this goes beyond just actions; is there a better name? just InputPhase?
 

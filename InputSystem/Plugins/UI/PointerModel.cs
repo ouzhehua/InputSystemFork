@@ -1,4 +1,4 @@
-#if UNITY_INPUT_SYSTEM_ENABLE_UI
+﻿#if UNITY_INPUT_SYSTEM_ENABLE_UI
 using UnityEngine.EventSystems;
 
 namespace UnityEngine.InputSystem.UI

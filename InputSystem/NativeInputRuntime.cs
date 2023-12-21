@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Linq;
 using Unity.Collections.LowLevel.Unsafe;
 using UnityEngine.InputSystem.Utilities;

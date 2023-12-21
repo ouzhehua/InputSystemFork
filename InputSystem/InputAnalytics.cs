@@ -1,4 +1,4 @@
-#if UNITY_ANALYTICS || UNITY_EDITOR
+﻿#if UNITY_ANALYTICS || UNITY_EDITOR
 using System;
 using System.Collections.Generic;
 using UnityEngine.InputSystem.Layouts;

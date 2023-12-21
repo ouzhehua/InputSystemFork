@@ -1,4 +1,4 @@
-using UnityEngine.InputSystem.Layouts;
+﻿using UnityEngine.InputSystem.Layouts;
 using UnityEngine.InputSystem.LowLevel;
 
 // Unfortunately, C# (at least up to version 6) does not support enum type constraints. There's

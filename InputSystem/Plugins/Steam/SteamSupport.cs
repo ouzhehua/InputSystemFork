@@ -1,4 +1,4 @@
-#if (UNITY_STANDALONE || UNITY_EDITOR) && UNITY_ENABLE_STEAM_CONTROLLER_SUPPORT
+﻿#if (UNITY_STANDALONE || UNITY_EDITOR) && UNITY_ENABLE_STEAM_CONTROLLER_SUPPORT
 using System;
 using UnityEngine.InputSystem.Layouts;
 using UnityEngine.InputSystem.Utilities;

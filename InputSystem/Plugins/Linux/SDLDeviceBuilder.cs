@@ -1,4 +1,4 @@
-#if UNITY_EDITOR || UNITY_STANDALONE_LINUX
+﻿#if UNITY_EDITOR || UNITY_STANDALONE_LINUX
 using System;
 using UnityEngine.InputSystem.LowLevel;
 using UnityEngine.InputSystem.Utilities;

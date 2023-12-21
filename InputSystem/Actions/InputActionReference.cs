@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Linq;
 
 ////REVIEW: Can we somehow make this a simple struct? The one problem we have is that we can't put struct instances as sub-assets into
